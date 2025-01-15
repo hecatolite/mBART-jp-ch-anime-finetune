@@ -1,8 +1,5 @@
 # mBART-jp-ch-anime-finetune
 
-git This is a Japanese to Chinese translation model finetuned based on [mbart-large-50-many-to-many-mmt](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt). Training file is run.py, test file is test.py, dataset is split_datasets/, generated data is data_test/.
-Complete my README.md part. Based on the above, and add text.
-
 This is a Japanese-to-Chinese translation model finetuned based on [mbart-large-50-many-to-many-mmt](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt). The model is specifically optimized for translating anime-related content, ensuring accurate and context-aware translations between Japanese and Chinese.
 
 ---
