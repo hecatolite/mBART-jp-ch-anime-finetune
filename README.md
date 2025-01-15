@@ -48,6 +48,14 @@ python test.py
 
 The generated translations will be saved in the `data_test/` directory.
 
+### Application
+
+To generate subtitles for video, run
+
+```bash
+python video_to_audio.py path_to_your_video
+```
+
 ---
 
 ## License
